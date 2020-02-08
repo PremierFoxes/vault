@@ -1,0 +1,7 @@
+.rst-content dl.hide-signature > dt {
+  display: none;
+}
+
+.rst-content dd dl.attribute em.property {
+  display: none;
+}
